@@ -1,2 +1,2 @@
 # DataScience
-For copyright purpose, i'm learning it on ProgrammerZamanNow
+For copyright purpose, i'm learning it on Dicoding
